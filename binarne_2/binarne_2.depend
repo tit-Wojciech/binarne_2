@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591552079 source:d:\users\wojtek\programowanie\binarne_2\main.cpp
+	<iostream>
+	<fstream>
+
